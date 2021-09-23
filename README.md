@@ -1,3 +1,3 @@
 # Guitar_Led
 
-Sistema embarcado desenvolvido em bare-metal na linguagem C para a placa Beaglebone Black
+Sistema embarcado desenvolvido com a BeagleBone Black que simula o jogo GuitarFlash
